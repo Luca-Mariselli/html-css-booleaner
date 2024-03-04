@@ -50,3 +50,31 @@ header {
 main {
     width: 60%;
 }
+
+#tabtitle {
+    background-color: CornflowerBlue;
+    display: inline-block;
+    width: 100%;
+    color: white;
+}
+
+#tab-body {
+    display: inline-block;
+}
+
+.row1 {
+    width: 20%;
+}
+
+.row2 {
+    width: 20%;
+}
+
+.row3 {
+    width: 20%;
+}
+
+.column1 {
+    background-color: lightblue;
+    display: inline-block;
+}
