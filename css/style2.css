@@ -2,7 +2,6 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-
 }
 
 #Box {
@@ -68,7 +67,6 @@ table {
     text-align: left;
 }
 
-#tab-body {}
 
 .column1 {
     width: 20%;
